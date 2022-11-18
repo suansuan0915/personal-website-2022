@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: wysujhu@gmail.com
+    link: mailto:wysujhu@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/suansuan0915
