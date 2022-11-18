@@ -6,6 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Data Engineering
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,11 +38,11 @@ education:
       institution: Southwestern University of Finance and Economics
       year: ""
 superuser: true
-last_name: Bighetti
+last_name: Su
 highlight_name: true
-first_name: Alice
-email: wysujhu.at.gmail.dot.com
+first_name: Wanyi
+email: wysujhu@gmail.com
 ---
 W is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wanyisu_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
