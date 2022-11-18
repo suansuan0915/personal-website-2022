@@ -1,7 +1,7 @@
 ---
 title: Wanyi Su
-role: CS Graduate Student at Simon Fraser University
-avatar_filename: su_wanyi.jpg
+role: Graduate Student with CS and Finance Background
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
