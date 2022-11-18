@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Data Engineer Intern
     company: Insurance Corporation of British Columbia (ICBC)
-    company_url: 'https://www.icbc.com/Pages/default.aspx'
+    company_url: ''
     company_logo: icbc-logo
     location: Vancouver, BC, Canada
     date_start: '2022-05-01'
