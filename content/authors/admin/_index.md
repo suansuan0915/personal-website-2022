@@ -1,6 +1,6 @@
 ---
 title: Wanyi Su
-role: Graduate Student with CS and Finance Background
+role: Previous Data Engineer, CS and Finance Background
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
