@@ -2,11 +2,12 @@
 title: Wanyi Su
 role: Previous Data Engineer, CS and Finance Background
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: Professional interests include data engineering, web engineering, and
+  machine learning. A dog lover with interests in cooking authentic Chinese food and capturing snapshots of life and nature in daily life.
 interests:
   - Data Engineering
-  - Data Science
+  - Web Engineering
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,4 +46,4 @@ email: wysujhu@gmail.com
 ---
 W is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wanyisu_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
