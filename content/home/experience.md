@@ -25,14 +25,19 @@ experience:
   - title: Data Engineer Intern
     company: Insurance Corporation of British Columbia (ICBC)
     company_url: 'https://www.icbc.com/Pages/default.aspx'
-    company_logo: 
-    location: Vancouver, BC
+    company_logo: icbc-logo
+    location: Vancouver, BC, Canada
     date_start: '2022-05-01'
     date_end: '2022-09-01'
     description: |2-
         Responsibilities include:
         
         * Developed and maintained an ETL data pipeline in **Spark Scala** with 100% accuracy to facilitate data migration.
+        * Implemented data validation using **SQL** queries to extract large scale data from different databases (**Oracle**, **Drill**, **Hive**).
+        * Applied software engineering best practice during the pipeline building process, including unit testing, **shell scripting**, CI/CD automation using **Jenkins**, version control using **SVN**, etc.).
+        * Built **Tableau** dashboards to provide varying levels of visualization for stakeholders and automate data quality monitoring.
+        * Collaborated with internal and external stakeholders in Agile environment (**Scrum** meetings, **JIRA**, **Kanban** board) about data
+feeds and data mappings.
 
   - title: Professor of Semiconductor Physics
     company: University X
