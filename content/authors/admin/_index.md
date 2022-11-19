@@ -49,8 +49,9 @@ class AboutMe:
 
   def __init__(self):
     self.name = 'Wanyi Su'
-    self.languages = ['English', 'Mandarin']
-    self.experience = ['Data Engineer', 'Financial Data Analyst']
+    self.experience = {'Computer Science': 'Data Engineer', 
+                       'Finance': 'Operations Data Analyst'}
+    self.languages = ['English', 'Mandarin']                  
     self.interests = ['Cooking Chinese Food', 'Road Trip']
     
   def greetings():
