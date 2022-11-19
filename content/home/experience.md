@@ -22,7 +22,6 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
   - title: Graduate Teaching Assistant
     company: Simon Fraser University
     company_url: 'https://www.sfu.ca/computing.html'
@@ -52,14 +51,14 @@ experience:
         * Built **Tableau** dashboards to provide varying levels of visualization for stakeholders and automate data quality monitoring.
         * Collaborated with internal and external stakeholders in Agile environment (**Scrum** meetings, **JIRA**, **Kanban** board) about data feeds and data mappings.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Operations Data Analyst
+    company: Morgan Stanley
+    company_url: 'https://www.morganstanley.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Baltimore, MD, United States
+    date_start: '2018-01-01'
+    date_end: '2018-05-20'
+    description: 
 
 design:
   columns: '3'
