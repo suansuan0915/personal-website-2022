@@ -22,6 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Graduate Teaching Assistant
+    company: Simon Fraser University
+    company_url: 'https://www.sfu.ca/computing.html'
+    company_logo: sfu-logo
+    location: Burnaby, BC, Canada
+    date_start: '2022-09-01'
+    date_end: '2022-12-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Coordinate with the professor and other two TAs on CMPT 726 Machine Learning course by holding office hours, designing assignment problems & solutions, grading homework, and hold weekly meetings.
+        * Tools used: **LaTeX**, **Canvas**, **Gradescope**.
+
   - title: Data Engineer Intern
     company: Insurance Corporation of British Columbia (ICBC)
     company_url: 'https://www.icbc.com/Pages/default.aspx'
