@@ -36,7 +36,7 @@ experience:
         * Implemented data validation using **SQL** queries to extract large scale data from different databases (**Oracle**, **Drill**, **Hive**).
         * 
         * Built **Tableau** dashboards to provide varying levels of visualization for stakeholders and automate data quality monitoring.
-        * 
+        * Collaborated with internal and external stakeholders in Agile environment (**Scrum** meetings, **JIRA**, **Kanban** board) about data feeds and data mappings.
 
   - title: Professor of Semiconductor Physics
     company: University X
