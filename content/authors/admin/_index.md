@@ -1,6 +1,6 @@
 ---
 title: Wanyi Su
-role: Previous Data Engineer, CS and Finance Background
+role: Actively Looking for Data Engineer/Software Engineer Full-Time Position
 avatar_filename: avatar.jpg
 bio: Professional interests include data engineering, web engineering, and
   machine learning. A dog lover with interests in cooking authentic Chinese food and capturing snapshots of life and nature in daily life.
