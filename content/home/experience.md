@@ -24,15 +24,15 @@ date_format: Jan 2006
 experience:
   - title: Data Engineer Intern
     company: Insurance Corporation of British Columbia (ICBC)
-    company_url: ''
-    company_logo: 
+    company_url: 'https://www.icbc.com/Pages/default.aspx'
+    company_logo: icbc-logo
     location: Vancouver, BC
     date_start: '2022-05-01'
     date_end: '2022-09-01'
     description: |2-
         Responsibilities include:
         
-        * Developed and maintained an ETL data pipeline in Spark Scala with 100% accuracy to facilitate data migration.
+        * Developed and maintained an ETL data pipeline in **Spark Scala** with 100% accuracy to facilitate data migration.
 
   - title: Professor of Semiconductor Physics
     company: University X
