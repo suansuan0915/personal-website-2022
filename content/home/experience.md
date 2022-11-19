@@ -37,8 +37,7 @@ experience:
         * Applied software engineering best practice during the pipeline building process, including unit testing, shell scripting, CI/CD
 automation using **Jenkins**, version control using **SVN**, etc.).
         * Built **Tableau** dashboards to provide varying levels of visualization for stakeholders and automate data quality monitoring.
-        * Collaborated with internal and external stakeholders in **Agile** environment (**Scrum** meetings, **JIRA**, **Kanban** board) about data
-feeds and data mappings.
+        * Collaborated with internal and external stakeholders in **Agile** environment (**Scrum** meetings, **JIRA**, **Kanban** board) about data feeds and data mappings.
 
   - title: Professor of Semiconductor Physics
     company: University X
