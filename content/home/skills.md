@@ -20,14 +20,23 @@ feature:
     icon: python
     icon_pack: fab
     name: Python
-  - description: 90%
+  - description: 95%
+    icon: code
+    icon_pack: fas
+    name: Spark
+  - description: 95%
+    icon: database
+    icon_pack: fas
+    name: SQL
+  - description: 95%
     icon: chart-line
     icon_pack: fas
     name: Machine Learning
-  - description: 95%
-    icon: camera-retro
+  - description: 50% (in progress)
+    icon: cloud-arrow-up
     icon_pack: fas
-    name: Photography
+    name: Cloud Computing
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
