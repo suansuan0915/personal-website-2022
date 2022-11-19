@@ -54,11 +54,18 @@ experience:
   - title: Operations Data Analyst
     company: Morgan Stanley
     company_url: 'https://www.morganstanley.com/'
-    company_logo: org-x
+    company_logo: MS-logo
     location: Baltimore, MD, United States
     date_start: '2018-01-01'
     date_end: '2018-05-20'
-    description: 
+    description: |2-
+        Responsibilities include:
+        
+        * Analyzed 20+ derivatives trading transaction data daily. Created Tableau dashboards and presented to clients and directors.
+        * Modeled derivatives product pricing and transactions with the application of Black-Scholes Pricing Models.
+        * Queried data from internal database using **MySQL**, quantified risk metrics and developed KRI reports in **EXCEL** (v-lookup, pivot table, functions).
+        * Streamlined internal risk management processes and improved drafting time by 20%.
+        * Led weekly conference calls with Asian, European teams and collaborated with sales and trading teams. 
 
 design:
   columns: '3'
