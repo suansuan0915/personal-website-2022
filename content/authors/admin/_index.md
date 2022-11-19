@@ -44,6 +44,19 @@ highlight_name: true
 first_name: Wanyi
 email: wysujhu@gmail.com
 ---
-W is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+```python
+
+class AboutMe:
+
+  def __init__(self):
+    self.name = 'Wanyi Su'
+    self.education = ['Data Science', 'Finance', 'Marketing]
+    self.languages = ['English', 'Mandarin']
+    self.interests = ['Cooking Chinese Food', 'Road Trip']
+    
+  me = AboutMe()
+
+```
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
