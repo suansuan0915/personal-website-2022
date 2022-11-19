@@ -45,7 +45,6 @@ first_name: Wanyi
 email: wysujhu@gmail.com
 ---
 ```python
-
 class AboutMe:
 
   def __init__(self):
@@ -54,8 +53,11 @@ class AboutMe:
     self.experience = ['Data Engineer', 'Financial Data Analyst']
     self.interests = ['Cooking Chinese Food', 'Road Trip']
     
+  def greetings():
+    print('Welcome to my main page!')
+    
 me = AboutMe()
-
+AboutMe.greetings()
 ```
 
 
