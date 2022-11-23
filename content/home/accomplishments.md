@@ -30,7 +30,7 @@ item:
     organization: CFA Institute
     organization_url: https://www.cfainstitute.org/en/
     title: CFA Level 2 Passed
-    url: ''
+    url: 'https://www.cfainstitute.org/en/'
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
