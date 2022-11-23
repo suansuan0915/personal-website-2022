@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: wysujhu{at}gmail{dot}com
-  address: Vancouver, Canada
 
 design:
   columns: '2'
