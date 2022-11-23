@@ -27,9 +27,9 @@ item:
     date_end: ''
     date_start: '2021-01-12'
     description: 'Chartered Financial Analyst (CFA) Program is a three-part exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning.'
-    organization: Apple
+    organization: CFA Institute
     organization_url: https://www.cfainstitute.org/en/
-    title: CFA Level 2
+    title: 'CFA Level 2'
     url: 'https://www.cfainstitute.org/en/'
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
