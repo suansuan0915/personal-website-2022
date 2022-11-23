@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: ''
+  - certificate_url: https://www.cfainstitute.org/en/
     date_end: ''
     date_start: '2021-01-12'
     description: 'Chartered Financial Analyst (CFA) Program is a three-part exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning.'
     organization: CFA Institute
     organization_url: https://www.cfainstitute.org/en/
-    title: CFA Level 2 Passed
+    title: CFA Level 2
     url: 'https://www.cfainstitute.org/en/'
   - certificate_url: https://www.edx.org
     date_end: ''
