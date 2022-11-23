@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Coordinate with the professor and other two TAs on CMPT 726 Machine Learning course by holding office hours, designing assignment problems & solutions, grading homework, and hold weekly meetings.
+        * Coordinate with the professor and other two TAs on CMPT 726 Machine Learning course by holding office hours,\ndesigning assignment problems & solutions, grading homework, and hold weekly meetings.
         * Tools used: **LaTeX**, **Canvas**, **Gradescope**.
 
   - title: Data Engineer Intern
@@ -47,9 +47,9 @@ experience:
         
         * Developed and maintained an ETL data pipeline in **Spark Scala** with 100% accuracy to facilitate data migration.
         * Implemented data validation using **SQL** queries to extract large scale data from different databases (**Oracle**, **Drill**, **Hive**).
-        * Applied software engineering best practice during the pipeline building process, including unit testing, **shell scripting**, CI\/CD automation using **Jenkins**, version control using **SVN**, etc.).
+        * Applied software engineering best practice during the pipeline building process, including unit testing, **shell scripting**, \nCI\/CD automation using **Jenkins**, version control using **SVN**, etc.).
         * Built **Tableau** dashboards to provide varying levels of visualization for stakeholders and automate data quality monitoring.
-        * Collaborated with internal and external stakeholders in Agile environment (**Scrum** meetings, **JIRA**, **Kanban** board) about data feeds and data mappings.
+        * Collaborated with internal and external stakeholders in Agile environment (**Scrum** meetings, **JIRA**, **Kanban** board) \nabout data feeds and data mappings.
 
   - title: Operations Data Analyst
     company: Morgan Stanley
@@ -63,7 +63,7 @@ experience:
         
         * Analyzed 20+ derivatives trading transaction data daily. Created Tableau dashboards and presented to clients and directors.
         * Modeled derivatives product pricing and transactions with the application of Black-Scholes Pricing Models.
-        * Queried data from internal database using **MySQL**, quantified risk metrics and developed KRI reports in **EXCEL** (v-lookup, pivot table, functions).
+        * Queried data from internal database using **MySQL**, quantified risk metrics and developed KRI \nreports in **EXCEL** (v-lookup, pivot table, functions).
         * Streamlined internal risk management processes and improved drafting time by 20%.
         * Led weekly conference calls with Asian, European teams and collaborated with sales and trading teams. 
 
