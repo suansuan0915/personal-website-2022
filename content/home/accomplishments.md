@@ -23,14 +23,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: 
     date_end: ''
-    date_start: '2021-01-25'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    date_start: '2021-01-12'
+    description: 'Chartered Financial Analyst (CFA) Program is a three-part exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning.'
+    organization: CFA Institute
+    organization_url: https://www.cfainstitute.org/en/
+    title: CFA Level 2 Passed
     url: ''
+  [
   - certificate_url: https://www.edx.org
     date_end: ''
     date_start: '2021-01-01'
@@ -47,6 +48,8 @@ item:
     organization_url: https://www.datacamp.com
     title: 'Object-Oriented Programming in R'
     url: ''
+ ]: #
+
 
 design:
   columns: '2'
