@@ -52,7 +52,7 @@ class AboutMe:
     self.experience = {'Computer Science': 'Data Engineer', 
                        'Finance': 'Operations Data Analyst'}
     self.languages = ['English', 'Mandarin']                  
-    self.interests = ['Cooking Chinese Food', 'Road Trip']
+    self.interests = ['Cooking', 'Road Trip']
     
   def greetings():
     print('Welcome to my main page!')
