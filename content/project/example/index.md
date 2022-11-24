@@ -13,11 +13,6 @@ image:
   focal_point: Smart
   filename: youtube.jpg
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
