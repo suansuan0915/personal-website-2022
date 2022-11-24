@@ -27,8 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: AWS Distributed System
+      tag: Distributed System
+    - name: Machine Learning
+      tag: Machine Learning
     - name: Other
       tag: Demo
 
