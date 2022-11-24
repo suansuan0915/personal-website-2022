@@ -62,7 +62,7 @@ me = AboutMe()
 AboutMe.greetings()
 ```
 
-### courses taken
+### Courses Taken
   - Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision, Web Engineering, Algorithm.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
