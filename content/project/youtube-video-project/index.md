@@ -14,7 +14,7 @@ image:
   filename: youtube.jpg
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'https://github.com/suansuan0915/personal-website-2022/blob/main/content/project/youtube-video-project/Final%20Report.pdf'
 url_slides: ''
 url_video: ''
 
