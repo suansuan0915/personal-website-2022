@@ -32,7 +32,6 @@ education:
     - course: MS in Computer Science - Big Data Concentration
       institution: Simon Fraser University
       year: 2022
-      courses taken: Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision, Web Engineering, Algorithm.
     - course: MS in Finance
       institution: Johns Hopkins University
       year: ""
@@ -46,6 +45,8 @@ highlight_name: true
 first_name: Wanyi
 email: wysujhu@gmail.com
 ---
+courses taken: 
+  - Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision, Web Engineering, Algorithm.
 ```python
 class AboutMe:
 
