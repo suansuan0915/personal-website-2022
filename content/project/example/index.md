@@ -11,7 +11,7 @@ external_link: 'https://github.com/suansuan0915/Youtube-Trending-Video-Analysis'
 image:
   caption: ''
   focal_point: Smart
-  filename: youtube.png
+  filename: youtube.jpg
 
 links:
   - icon: twitter
