@@ -1,5 +1,5 @@
 ---
-title: YouTube Trending Video Analysis Project
+title: YouTube Trending Video Project
 summary: A project using machine learning techniques to figure out elements listed on YouTube trending videos, so that the videos can reach more audiences with higher numbers of views, likes, and comments. A website product is also presented to Youtubers to help them produce more trending videos.
 tags: 
 - Machine Learning
@@ -15,7 +15,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: ''
+url_slides: 'https://github.com/suansuan0915/personal-website-2022/blob/main/content/project/youtube-video-project/Final%20presentation.pdf'
 url_video: ''
 
 # Slides (optional).
