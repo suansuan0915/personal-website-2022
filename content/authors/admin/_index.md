@@ -38,7 +38,7 @@ education:
     - course: BA in Marketing; BE in Finance
       institution: Southwestern University of Finance and Economics
       year: ""
-courses:
+courses taken:
   - Machine Learning (A+), Big Data Lab 1 (A-), Distributed and Cloud Systems (A-), Computer Vision, Algorithm.
 superuser: true
 last_name: Su
