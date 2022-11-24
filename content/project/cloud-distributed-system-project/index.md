@@ -11,7 +11,7 @@ external_link: 'https://github.com/scp756-221/term-project-cloud_sprints'
 image:
   caption: ''
   focal_point: Smart
-  filename: 
+  filename: aws.jpeg
 
 url_code: ''
 url_pdf: ''
