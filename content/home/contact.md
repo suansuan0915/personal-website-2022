@@ -19,7 +19,8 @@ content:
 
   # Contact details (edit or remove options as required)
   email: wysujhu{at}gmail{dot}com
-
+  linkedin: https://www.linkedin.com/in/wanyisu
+  github: ''
 design:
   columns: '2'
 ---
