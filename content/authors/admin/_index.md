@@ -32,14 +32,14 @@ education:
     - course: MS in Computer Science - Big Data Concentration
       institution: Simon Fraser University
       year: 2022
+      courses taken: Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision, Web Engineering, Algorithm.
     - course: MS in Finance
       institution: Johns Hopkins University
       year: ""
     - course: BA in Marketing; BE in Finance
       institution: Southwestern University of Finance and Economics
       year: ""
-courses taken:
-  - Machine Learning (A+), Big Data Lab 1 (A-), Distributed and Cloud Systems (A-), Computer Vision, Algorithm.
+
 superuser: true
 last_name: Su
 highlight_name: true
