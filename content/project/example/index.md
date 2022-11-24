@@ -8,8 +8,9 @@ date: '2022-02-10T00:00:00Z'
 external_link: 'https://github.com/suansuan0915/Youtube-Trending-Video-Analysis'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
+  filename: youtube.png
 
 links:
   - icon: twitter
