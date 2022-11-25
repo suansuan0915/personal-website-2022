@@ -1,7 +1,7 @@
 ---
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: accomplishments
+widget: certificate
 
 # This file represents a page section.
 headless: true
@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certificate' 'Accomplish&shy;ments'
 subtitle:
 
 # Date format
@@ -31,15 +31,6 @@ item:
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: 'https://www.cfainstitute.org/en/'
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
-
 
 design:
   columns: '2'
