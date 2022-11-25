@@ -51,3 +51,6 @@ Hello! My name is Wanyi Su. I'm a graduate student with background of computer s
 
 ### Courses Taken
   - Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision, Web Engineering, Algorithm.
+
+### Awards
+  - Athena Pathways Scholarship (SFU), CSC Scholarship (JHU), University Academic Scholarship, Honors Graduate (SWUFE).
