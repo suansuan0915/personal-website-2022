@@ -45,22 +45,8 @@ highlight_name: true
 first_name: Wanyi
 email: wysujhu@gmail.com
 ---
-```python
-class AboutMe:
+Hello! My name is Wanyi Su. I'm a graduate student with background of computer science and finance. I have *data engineering* and *investment banking* professional experience in Canada and United States. I'm fluent in English and Mandarin. In my leisure time, I love cooking, road trip, and capturing snapshots of our beautiful nature.
 
-  def __init__(self):
-    self.name = 'Wanyi Su'
-    self.background = {'Computer Science': 'Data Engineer', 
-                       'Finance': 'Operations Data Analyst'}
-    self.languages = ['English', 'Mandarin']                  
-    self.interests = ['Cooking', 'Road Trip']
-    
-  def greetings():
-    print('Welcome to my main page!')
-    
-me = AboutMe()
-AboutMe.greetings()
-```
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ### Courses Taken
