@@ -32,10 +32,10 @@ item:
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
   - certificate_url: ''
-    title: 'Microsoft Certified: Azure Data Scientist Associate'
+    title: 'Microsoft Certified - Azure Data Scientist Associate'
     organization: Microsoft Azure
     date_start: '2023-01-09'
-    description: 'I/'m now preparing for Azure Cloud Certificate Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
+    description: 'Now preparing for Azure Cloud Certificate Exam DP-100 - Designing and Implementing a Data Science Solution on Azure'
 
 design:
   columns: '2'
