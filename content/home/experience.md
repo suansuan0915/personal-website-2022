@@ -28,7 +28,7 @@ experience:
     company_logo: sfu-logo
     location: Burnaby, BC, Canada
     date_start: '2022-09-01'
-    date_end: to present
+    date_end: '2023-05-01'
     description: |2-
         Responsibilities include:
         
