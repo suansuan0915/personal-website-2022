@@ -32,9 +32,9 @@ item:
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
   - certificate_url: ''
-    title: 'CFA Level 3'
-    organization: CFA Institute
-    date_start: '2021-01-20'
+    title: 'Microsoft Certified - Azure Data Scientist Associate'
+    organization: Microsoft Azure
+    date_start: '2023-01-09'
 
 design:
   columns: '2'
