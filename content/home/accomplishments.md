@@ -34,8 +34,9 @@ item:
   - certificate_url: ''
     title: 'Microsoft Certified - Azure Data Scientist Associate'
     organization: Microsoft Azure
-    date_start: '2023-01-09'
-    description: 'Now preparing for Azure Cloud Certificate Exam DP-100 - Designing and Implementing a Data Science Solution on Azure'
+    organization_url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
+    date_start: '2023-02-20'
+    description: 'Now preparing for Azure Cloud Certificate Exam DP-100 - Designing and Implementing a Data Science Solution on Azure.'
 
 design:
   columns: '2'
