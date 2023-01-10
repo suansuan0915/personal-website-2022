@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant
+  - title: Graduate Teaching Assistant (Part-Time)
     company: Simon Fraser University
     company_url: 'https://www.sfu.ca/computing.html'
     company_logo: sfu-logo
     location: Burnaby, BC, Canada
     date_start: '2022-09-01'
-    date_end: '2022-12-31'
+    date_end: to present
     description: |2-
         Responsibilities include:
         
