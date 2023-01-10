@@ -32,7 +32,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Coordinate with the professor and other two TAs on CMPT 726 Machine Learning course by holding office hours, designing assignment problems & solutions, grading homework, and hold weekly meetings.
+        * Coordinate with the professor and other TAs on **CMPT 726 Machine Learning** course and **CMPT 105W - Social Issues and Communication Strategies in CS** course by holding office hours, designing assignment problems & solutions, grading homework, and hold weekly meetings.
         * Tools used: **LaTeX**, **Canvas**, **Gradescope**.
 
   - title: Data Engineer Intern
