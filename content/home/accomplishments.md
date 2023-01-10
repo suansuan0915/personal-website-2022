@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   `title`, `organization`, and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-items:
+item:
   - certificate_url: ''
     date_end: ''
     date_start: '2021-01-12'
@@ -31,14 +31,10 @@ items:
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
-  - certificate_url: ''
-    date_end: ''
-    date_start: '2023-01-09'
+  - date_start: '2022-01-01'
     description: 'I'm now preparing for Azure Cloud Certificate Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
     organization: Microsoft Azure
-    organization_url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
     title: 'Microsoft Certified: Azure Data Scientist Associate'
-    url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
 
 design:
   columns: '2'
