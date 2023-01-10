@@ -26,19 +26,12 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2021-01-12'
-    description: 'Chartered Financial Analyst (CFA) Program is a three-part exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning.'
+    description: 'Chartered Financial Analyst (CFA) Program is a three-leveled exam that tests the fundamentals of investment tools, valuing assets, portfolio management, and wealth planning.'
     organization: CFA Institute
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
-- certificate_url: https://www.datacamp.com
-  date_end: '2020-12-21'
-  date_start: '2020-07-01'
-  description: ''
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ''
+
 design:
   columns: '2'
 ---
