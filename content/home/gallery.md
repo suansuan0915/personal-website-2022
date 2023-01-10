@@ -14,7 +14,6 @@ subtitle:
 
 design:
   columns: '1'
-  view: showcase
 ---
 
 {{< gallery album="demo" >}}
