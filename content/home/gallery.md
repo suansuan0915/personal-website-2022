@@ -14,7 +14,7 @@ subtitle:
 
 design:
   columns: '1'
-  view: compact
+  view: showcase
 ---
 
-{{< gallery album="demo" resize_options="250x250" >}}
+{{< gallery album="demo" >}}
