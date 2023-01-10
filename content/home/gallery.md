@@ -14,6 +14,7 @@ subtitle:
 
 design:
   columns: '1'
+  view: masonry
 ---
 
 {{< gallery album="demo" >}}
