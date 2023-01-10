@@ -31,10 +31,6 @@ item:
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
-  - date_start: '2022-01-01'
-    description: 'I'm now preparing for Azure Cloud Certificate Exam DP-100: Designing and Implementing a Data Science Solution on Azure'
-    organization: Microsoft Azure
-    title: 'Microsoft Certified: Azure Data Scientist Associate'
 
 design:
   columns: '2'
