@@ -15,7 +15,7 @@ image:
 
 url_code: ''
 url_pdf: ''
-url_slides: 'https://github.com/suansuan0915/personal-website-2022/blob/main/content/project/youtube-video-project/Final%20presentation.pdf'
+url_slides: 'https://github.com/suansuan0915/personal-website-2022/blob/main/content/project/youtube-video-project/Final%20presentation%20(use%20this%20one%20for%20final).pptx'
 url_video: ''
 
 # Slides (optional).
