@@ -23,7 +23,7 @@ social:
     link: https://www.instagram.com/wanyi_su/
     label: Follow me on Instagram
     display:
-      header: true
+      header: false
 organizations:
   - name: Simon Fraser University
     url: https://www.sfu.ca/
