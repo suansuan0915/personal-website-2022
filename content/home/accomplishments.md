@@ -31,6 +31,10 @@ item:
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
+  - certificate_url: ''
+    title: 'CFA Level 3'
+    organization: CFA Institute
+    date_start: '2021-01-20'
 
 design:
   columns: '2'
