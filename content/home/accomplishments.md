@@ -31,7 +31,6 @@ item:
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: 'https://www.cfainstitute.org/en/'
-
   - certificate_url: ''
     date_end: ''
     date_start: '2023-02-19'
