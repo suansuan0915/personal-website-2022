@@ -45,12 +45,12 @@ highlight_name: true
 first_name: Wanyi
 email: wysujhu@gmail.com
 ---
-Hello! My name is Wanyi Su. I'm a graduate student with background of computer science and finance. I have *data engineering* and *investment banking* professional experience in Canada and United States. I'm fluent in English and Mandarin. In my leisure time, I love cooking, road trip, and capturing snapshots of our beautiful nature.
+Hello! My name is Wanyi Su. I'm a graduate student with background of computer science and finance. I have *data engineering* and *investment banking* professional experience in Canada and United States. I'm fluent in English and Mandarin. I love cooking, road trip, and capturing snapshots of the beautiful nature.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 ### Courses Taken
-  - Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision, Web Engineering, Algorithm.
+  - Machine Learning (A+), Distributed and Cloud Systems (A-), Computer Vision (A+), Web Engineering, Algorithm.
 
 ### Awards
   - Athena Pathways Scholarship (SFU), CSC Scholarship (JHU), University Academic Scholarship, Honors Graduate (SWUFE).
