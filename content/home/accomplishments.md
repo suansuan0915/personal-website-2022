@@ -30,7 +30,7 @@ items:
     organization: CFA Institute
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
-    url: 'https://www.cfainstitute.org/en/'
+    url: https://www.cfainstitute.org/en/
   - certificate_url: ''
     date_end: ''
     date_start: '2023-01-09'
@@ -38,7 +38,7 @@ items:
     organization: Microsoft Azure
     organization_url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
     title: 'Microsoft Certified: Azure Data Scientist Associate'
-    url: 'https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl'
+    url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
 
 design:
   columns: '2'
