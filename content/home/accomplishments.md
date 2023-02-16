@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certificate' 
+title: 'Certificates' 
 subtitle:
 
 # Date format
@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: 'https://www.credly.com/badges/96c735c9-2a93-441c-9433-da07cad2c17f/linked_in_profile'
     title: 'Microsoft Certified - Azure Data Scientist Associate'
-    organization: Microsoft Azure
+    organization: Microsoft
     organization_url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
     date_start: '2023-02-14'
     description: 'Passed Azure Cloud Certificate Exam DP-100 - Designing and Implementing a Data Science Solution on Azure.'
