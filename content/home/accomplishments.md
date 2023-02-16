@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: 'https://www.credly.com/badges/96c735c9-2a93-441c-9433-da07cad2c17f/linked_in_profile'
+    title: 'Microsoft Certified - Azure Data Scientist Associate'
+    organization: Microsoft Azure
+    organization_url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
+    date_start: '2023-02-14'
+    description: 'Passed Azure Cloud Certificate Exam DP-100 - Designing and Implementing a Data Science Solution on Azure.'
   - certificate_url: ''
     date_end: ''
     date_start: '2021-01-12'
@@ -31,12 +37,6 @@ item:
     organization_url: https://www.cfainstitute.org/en/
     title: 'CFA Level 2'
     url: https://www.cfainstitute.org/en/
-  - certificate_url: ''
-    title: 'Microsoft Certified - Azure Data Scientist Associate'
-    organization: Microsoft Azure
-    organization_url: https://learn.microsoft.com/en-us/certifications/exams/dp-100?wt.mc_id=ignite22_cloudskillschallenge_cschome_cnl
-    date_start: '2023-02-20'
-    description: 'Now preparing for Azure Cloud Certificate Exam DP-100 - Designing and Implementing a Data Science Solution on Azure.'
 
 design:
   columns: '2'
