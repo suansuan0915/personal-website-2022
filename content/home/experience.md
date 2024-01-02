@@ -22,6 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Engineer
+    company: Environics Analytics
+    company_url: 'https://environicsanalytics.com/'
+    company_logo: ea-logo
+    location: Toronro, ON, Canada
+    date_start: '2023-05-25'
+    date_end: '2023-12-31'
+    description: |2-
+        Responsibilities include:
+
+        * Led weekly update and maintained the cloud based ETL pipeline for a real-time mobility data product using **Airflow**.
+        * Refactored and optimized an ETL pipeline for a geospatial data product using tools (**Azure DevOps**, **Airflow**, **Alteryx**) and languages (**SnowSQL**, **Python**).
+        * Conducted testing and anomaly detection by machine learning and statistical modeling in **Databricks** or by **SnowSQL** queries in **Snowflake**.
+        * Automated and visualized data quality check process (*hard & soft QC*) and data flow monitoring by designing **Tableau** dashboard.
+        * Drafted technical documentation for two products using **Obsidian**.
+        * Cooperated with technical/non-technical stakeholders about product statuses/issues.
+
+
   - title: Graduate Teaching Assistant (Part-Time)
     company: Simon Fraser University
     company_url: 'https://www.sfu.ca/computing.html'
