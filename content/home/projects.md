@@ -31,8 +31,8 @@ content:
       tag: Distributed System
     - name: Machine Learning
       tag: Machine Learning
-    - name: Other
-      tag: Demo
+    - name: Data Engineering
+      tag: data engineering
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
