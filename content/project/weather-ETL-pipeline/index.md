@@ -17,7 +17,7 @@ external_link: 'https://github.com/suansuan0915/weather-dbt-project/tree/databri
 image:
   caption: ''
   focal_point: Smart
-  filename: weather-tools.png
+  filename: weather-tools.jpeg
 
 ---
 
