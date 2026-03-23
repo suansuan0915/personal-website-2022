@@ -32,7 +32,7 @@ content:
     - name: Machine Learning
       tag: Machine Learning
     - name: Data Engineering
-      tag: data engineering
+      tag: Data Engineering
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
